@@ -19,8 +19,7 @@ You do not need to remember every command, just know where things live and what 
 
 Step-by-Step
 	1.	Linux basics (2 sessions)
-	•	Open KodeKloud Linux basics:
-https://kodekloud.com/courses/linux-basics/
+	•	Open KodeKloud Linux basics: https://kodekloud.com/free-labs/linux
 	•	Cover: file system, cd, ls, cat, mkdir, rm, cp, mv, permissions (chmod, chown).
 	•	Run every command yourself. Don’t skip the labs.
 	2.	Linux puzzles (optional but powerful)

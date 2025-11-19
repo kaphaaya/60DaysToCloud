@@ -22,32 +22,33 @@ ALSO You don’t need to know every Terraform feature.
 1.	Learn Terraform basics
 Official tutorials:
 https://developer.hashicorp.com/terraform/tutorials/aws-get-started
-	•	Concepts to : provider, resource, variable, output, state
-	•	Commands: init, plan, apply, destroy.
+https://github.com/hashicorp/learn-terraform-provision-ec2-instance
+- Concepts to : provider, resource, variable, output, state
+- Commands: init, plan, apply, destroy.
 
 2.	Create your first configuration
-	•	Choose AWS or your main cloud
-	•	Use the “provision EC2” example as reference:
+- Choose AWS or your main cloud
+- Use the “provision EC2” example as reference:
 https://github.com/hashicorp/learn-terraform-provision-ec2-instance
-	•	Write your own main.tf that creates:
-	•	VPC (optional for first step)
-	•	EC2/VM instance
-	•	A security group.
+- Write your own main.tf that creates:
+- VPC (optional for first step)
+- EC2/VM instance
+- A security group.
 
 3.	Use variables and outputs
-	•	Add variables.tf for region, instance type
-	•	Add outputs.tf for instance ID, public IP.
+- Add variables.tf for region, instance type
+- Add outputs.tf for instance ID, public IP.
 
 4.	Understand state
 Terraform state:
 https://developer.hashicorp.com/terraform/language/state
-	•	See terraform.tfstate file
-	•	Run apply, change something, then apply again
-	•	See how Terraform reconciles changes.
+- See terraform.tfstate file
+- Run apply, change something, then apply again
+- See how Terraform reconciles changes.
 
 5.	Clean up
-	•	Use terraform destroy
-	•	Confirm resources are removed from the console.
+- Use terraform destroy
+- Confirm resources are removed from the console.
 
 ## Checklist
 - You can explain provider, resource, variable, and state
