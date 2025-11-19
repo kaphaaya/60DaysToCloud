@@ -40,16 +40,18 @@ You don’t need to master production-grade K8s yet.
     • Run image: docker run -p 8080:8080 myapp:v1.
 
 3.  Install Minikube
+
     https://minikube.sigs.k8s.io/docs/start/
     • Install and start Minikube
     • Confirm kubectl get nodes works.
 
 4.  Learn Kubernetes basics
+
     Kubernetes interactive tutorial:
     https://kubernetes.io/docs/tutorials/kubernetes-basics/
 
-        Hello Minikube:
-        https://kubernetes.io/docs/tutorials/hello-minikube/
+    Hello Minikube:
+    https://kubernetes.io/docs/tutorials/hello-minikube/
 
     • Concepts: pod, deployment, service, ingress (at least the first three in depth).
 
@@ -67,13 +69,13 @@ You don’t need to master production-grade K8s yet.
 
 ## Practice Resources
 
-https://kodekloud.com/free-labs/kubernetes
-https://labs.play-with-docker.com/
-https://github.com/docker/labs/tree/master/beginner
-https://minikube.sigs.k8s.io/docs/start/
-https://kubernetes.io/docs/tutorials/kubernetes-basics/
-https://kubernetes.io/docs/tutorials/hello-minikube/
+    https://kodekloud.com/free-labs/kubernetes
+    https://labs.play-with-docker.com/
+    https://github.com/docker/labs/tree/master/beginner
+    https://minikube.sigs.k8s.io/docs/start/
+    https://kubernetes.io/docs/tutorials/kubernetes-basics/
+    https://kubernetes.io/docs/tutorials/hello-minikube/
 
 ## What Won’t Work
 
-Jumping to managed Kubernetes before you’ve run Minikube locally.
+    Jumping to managed Kubernetes before you’ve run Minikube locally.

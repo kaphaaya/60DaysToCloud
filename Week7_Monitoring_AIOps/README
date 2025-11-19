@@ -40,7 +40,7 @@ You don’t need a full production observability stack.
 3. Monitor Docker containers
 
 - Tutorial:
-  https://devopscube.com/monitor-docker-containers-using-prometheus/
+  https://devopscube.com/monitor-docker-containers-using-prometheus/ (not getting)
 
   • Follow guide to monitor containers with Prometheus + Grafana.
 

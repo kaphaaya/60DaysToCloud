@@ -2,7 +2,7 @@
 
 ## Goal
 
-Understand how cloud platforms are structured (regions, services, IAM, billing) and deploy at least one static site.
+Understand how the cloud platforms are structured (regions, services, IAM, billing) and deploy at least one static site.
 
 ## Time Commitment
 
@@ -27,18 +27,18 @@ You’re not expected to understand every service in the console.
    AWS:
    https://explore.skillbuilder.aws/learn/course/134/aws-cloud-practitioner-essentials
 
-Azure:
-https://learn.microsoft.com/en-us/training/paths/az-900-describe-cloud-concepts/
+   Azure:
+   https://learn.microsoft.com/en-us/training/paths/az-900-describe-cloud-concepts/
 
-GCP:
-https://www.skills.google/course_templates/695
+   GCP:
+   https://www.skills.google/course_templates/695
 
-Watch/complete modules on:
-• Regions / zones
-• Compute (VMs)
-• Storage (buckets / blobs)
-• Networking basics
-• IAM basics
+   Watch/complete modules on:
+   • Regions / zones
+   • Compute (VMs)
+   • Storage (buckets / blobs)
+   • Networking basics
+   • IAM basics
 
 3. Explore the console (1 session)
    • Log into your chosen cloud’s web console.

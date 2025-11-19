@@ -25,6 +25,7 @@ You are not expected to design full enterprise pipelines.
    • Stages: build → test → package → deploy.
 
 2. GitHub Actions basics
+
    Overview:
    https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions
 
@@ -35,6 +36,7 @@ You are not expected to design full enterprise pipelines.
    • Steps: checkout → install deps → run tests.
 
 3. Add Docker build
+
    GitHub Actions with Docker:
    https://docs.github.com/en/actions/publishing-packages/publishing-docker-images
 
@@ -42,10 +44,11 @@ You are not expected to design full enterprise pipelines.
    • Optionally push to Docker Hub (if you create an account).
 
 4. Optional: Jenkins basics
+
    Getting started:
    https://www.jenkins.io/doc/book/getting-started/
 
-   • If you prefer, you can replicate the pipeline in Jenkins.
+• If you prefer, you can replicate the pipeline in Jenkins.
 
 5. Connect CI to your K8s or VM deploy (stretch)
    • Add a job step that deploys updated image via kubectl or SSH script.
