@@ -18,29 +18,35 @@ By the end of this prework, you should:
 You do not need to remember every command, just know where things live and what to Google.
 
 Step-by-Step :
+1. SDLC Concepts
+Focused on three phases : 
+    • Requirement Analysis, 
+    • Coding & Implmentation
+    • Deployment & Maintenance
+Review this video here: https://youtu.be/Fi3_BjVzpqk?si=Uhe7GsGvp3QMtUQL
 
-1.	Linux basics (2 sessions)
+2.	Linux basics (2 sessions)
 	•	Open KodeKloud Linux basics: https://kodekloud.com/free-labs/linux
 	•	Cover: file system, cd, ls, cat, mkdir, rm, cp, mv, permissions (chmod, chown).
 	•	Run every command yourself. Don’t skip the labs.
 
-2.	Linux puzzles (optional but powerful)
+3.	Linux puzzles (optional but powerful)
 	•	Start Bandit:
 		https://overthewire.org/wargames/bandit/
 	•	Clear first 5–10 levels. Focus on reading the hints and Googling commands you don’t know yet.
 	
-3.	Git & GitHub basics (1–2 sessions)
+4.	Git & GitHub basics (1–2 sessions)
 	•	Use Learn Git Branching:
 		https://learngitbranching.js.org/
 	•	Complete the “Introduction Sequence” and at least a couple of branching levels.
 	•	Aim to understand: commit, branch, merge, checkout.
 
-4.	Networking basics (1 session)
+5.	Networking basics (1 session)
 	•	Take AWS Networking Fundamentals (watch at least the intro/overview sections):
 		https://explore.skillbuilder.aws/learn/course/11558/aws-networking-fundamentals
 	•	Make notes on: IP, subnet, port, DNS, firewall.
 	
-5.	Cloud models (1 session)
+6.	Cloud models (1 session)
 	•	Watch a short video on public/private/hybrid and IaaS/PaaS/SaaS:
 		https://youtu.be/2LaAJq1lB1Q
 
