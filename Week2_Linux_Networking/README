@@ -36,14 +36,19 @@ https://docs.oracle.com/en-us/iaas/Content/Compute/Tasks/launchinginstance.htm
 	•	Note where you configure network (VPC/VNet/VCN) and firewall rules.
 
 2.	Understand the network layer
+
 AWS VPC:
 https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html
+
 GCP VPC:
 https://cloud.google.com/vpc/docs/vpc
+
 Azure VNets:
 https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview
+
 OCI VCN:
 https://docs.oracle.com/en-us/iaas/Content/Network/Tasks/managingVCNs.htm
+
 	•	Learn what:
 	•	VPC/VNet/VCN is
 	•	Subnet is
@@ -61,10 +66,13 @@ https://www.digitalocean.com/community/tutorials/ssh-essentials-working-with-ssh
 4.	Install Nginx and serve a page
 AWS EC2 + Nginx:
 https://docs.nginx.com/nginx/deployment-guides/amazon-web-services/ec2-install-nginx/
+
 GCP Nginx:
 https://cloud.google.com/community/tutorials/nginx-on-compute-engine
+
 Azure Nginx:
 https://learn.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-load-balancer
+
 OCI Nginx:
 https://docs.oracle.com/en/learn/install_nginx_ol8/index.html
 	•	Install Nginx
@@ -75,10 +83,13 @@ https://docs.oracle.com/en/learn/install_nginx_ol8/index.html
 5.	Check logs
 AWS EC2 logs:
 https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instance-console.html
+
 GCP serial port logs:
 https://cloud.google.com/compute/docs/instances/viewing-serial-port-output
+
 Azure boot diagnostics:
 https://learn.microsoft.com/en-us/azure/virtual-machines/boot-diagnostics
+
 OCI serial console:
 https://docs.oracle.com/en-us/iaas/Content/Compute/References/serialconsole.htm
 
